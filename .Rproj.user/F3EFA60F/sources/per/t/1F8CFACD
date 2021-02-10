@@ -1,6 +1,6 @@
 {
     "id": "1F8CFACD",
-    "path": "C:/Users/cliver/Downloads/R/RepData_PeerAssessment1/PA1_template.Rmd",
+    "path": "C:/Users/cliver/Downloads/R/git/RepData_PeerAssessment1/PA1_template.Rmd",
     "project_path": "PA1_template.Rmd",
     "type": "r_markdown",
     "hash": "1732455302",
@@ -13,7 +13,7 @@
         "source_window_id": "",
         "Source": "Source",
         "cursorPosition": "102,0",
-        "scrollLine": "87"
+        "scrollLine": "77"
     },
     "folds": "",
     "lastKnownWriteTime": 1612980099,
